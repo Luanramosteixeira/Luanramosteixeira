@@ -36,3 +36,8 @@
 <p align="left">Ola Meu nome é Luan <br>Tenho trabalhado como engenheiro de software por mais de 1 ano, focando principalmente no desenvolvimento em HTML/JavaScript. Adoro usar tecnologia para ajudar startups a crescer, ajudei na construção/manutenção de sistemas backend robustos e escaláveis. Meu foco está em escrever código limpo e bem testado. Estou sempre ansioso para ajudar as pessoas a entenderem conceitos de tecnologia.<br><br>✔Software Engineer<br>✔PostgreSQL<br>✔Python<br>✔JavaScript<br>✔React.js<br>✔HTML5<br>✔CSS</p>
 
 ###
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luanramosteixeira/Luanramosteixeira/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luanramosteixeira/Luanramosteixeira/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luanramosteixeira/Luanramosteixeira/output/github-contribution-grid-snake.svg">
+</picture>
