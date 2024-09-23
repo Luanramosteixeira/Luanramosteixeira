@@ -1,13 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/8b/35/72/8b357283fd26e3bb18cc1983c0ebdb9c.gif"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luan-ramos-358598224/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img height="300" src="https://i.pinimg.com/originals/7e/8c/d3/7e8cd38034029695e54d76d5f08a3a8e.gif"  />
 </div>
 
 ###
@@ -37,14 +29,10 @@
 
 ###
 
-<img align="right" height="350" src="https://i.pinimg.com/736x/98/5e/e3/985ee3c1cf22c01b48c15aa2acb03cf0.jpg"  />
+<img align="right" height="400" src="https://i.pinimg.com/736x/98/5e/e3/985ee3c1cf22c01b48c15aa2acb03cf0.jpg"  />
 
 ###
 
 <p align="left">Ola Meu nome é Luan <br>Tenho trabalhado como engenheiro de software por mais de 1 ano, focando principalmente no desenvolvimento em HTML/JavaScript. Adoro usar tecnologia para ajudar startups a crescer, ajudei na construção/manutenção de sistemas backend robustos e escaláveis. Meu foco está em escrever código limpo e bem testado. Estou sempre ansioso para ajudar as pessoas a entenderem conceitos de tecnologia.<br><br>✔Software Engineer<br>✔PostgreSQL<br>✔Python<br>✔JavaScript<br>✔React.js<br>✔HTML5<br>✔CSS</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Luanramosteixeira/Luanramosteixeira/output/snake.svg" alt="Snake animation" />
 
 ###
